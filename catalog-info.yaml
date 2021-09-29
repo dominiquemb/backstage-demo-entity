@@ -4,7 +4,7 @@ metadata:
   name: backstage-demo-entity
   description: A demo entity with a project ID
   annotations:
-    backstage.io/project-id: 3
+    backstage.io/project-id: '3'
 spec:
   type: service
   owner: conejoplata@gmail.com
